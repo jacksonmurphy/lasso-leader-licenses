@@ -1,0 +1,21 @@
+{
+    "repository": {
+        "name": "lasso-leader-licenses",
+        "owner": "jacksonmurphy",
+        "description": "Private license validation for Lasso Leader plugin"
+    },
+    "license_settings": {
+        "default_expiry_days": 365,
+        "version": "5.0.0",
+        "features": {
+            "gravity_forms": true,
+            "contact_form_7": true,
+            "api_integration": true,
+            "unlimited_projects": true
+        }
+    },
+    "security": {
+        "validation_endpoint": "/contents/licenses/",
+        "api_version": "v1"
+    }
+}

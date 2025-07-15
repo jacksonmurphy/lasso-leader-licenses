@@ -1,0 +1,11 @@
+{
+    "hash": "sample_hash_here",
+    "created": "2025-07-15 10:00:00",
+    "client": {
+        "name": "Development Environment",
+        "domain": "localhost",
+        "generated_by": "Jackson Murphy",
+        "generated_date": "2025-07-15 10:00:00"
+    },
+    "status": "active"
+}
